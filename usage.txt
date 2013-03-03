@@ -1,0 +1,15 @@
+$ ruby -v
+ruby 1.9.3p194 (2012-04-20 revision 35410) [x86_64-linux]
+$ ruby tc_dependencies.rb 
+Run options: 
+
+# Running tests:
+
+....1333332 edges
+962769 nodes
+..
+
+Finished tests in 10.547767s, 0.5688 tests/s, 0.9481 assertions/s.
+
+6 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
